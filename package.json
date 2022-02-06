@@ -2,8 +2,8 @@
   "name": "@andcreations/action-test",
   "version": "1.0.0",
   "description": "Github action test",
-  "main": "build/index.js",
-  "types": "build/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "clean": "rm -rf build && rm -rf node_modules"
